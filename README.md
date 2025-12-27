@@ -1,15 +1,18 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Angular,REact,Node.js
+- 🌱 I’m currently learning Angular,React,Node.js
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Google It "Shanjid Amin Siam"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Doing Code
-- 
+
+
+
 👋 About Me
+
 Hi, I’m Shanjid Amin Siam, a CSE Graduate from the University of Asia Pacific 🎓 with a strong passion for building practical tech solutions 💡 and exploring the exciting intersection of Machine Learning 🤖, NLP 🧠, and Generative AI ✨. I love turning complex problems into clear, efficient systems—whether through backend development 💻, AI-driven projects, or collaborative tech initiatives 🤝.
 
 Beyond academics, I’ve been actively involved in media 📸, publications ✍️, and event organization 🎯, experiences that have strengthened my communication 🗣️, teamwork 🤜🤛, and leadership 🌱 skills. Curious by nature 🔍 and quick to learn ⚡, I’m driven to grow as a software professional who creates real-world impact 🌍 through technology.
