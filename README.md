@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Angular,React,Node.js
+- 🌱 I’m currently learning React,Node.js,Angular
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
